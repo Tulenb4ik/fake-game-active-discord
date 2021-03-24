@@ -1,3 +1,4 @@
+![alt tag](https://i.imgur.com/CHMXbO7.png)​
 # install  <h1> 
   ```
   git clone https://github.com/Tulenb4ik/fake-game-active-discord
