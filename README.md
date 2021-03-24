@@ -1,2 +1,2 @@
 #fake active discord
-![alt tag](https://i.imgur.com/svbjTPC.png)​
+![alt tag](https://i.imgur.com/CHMXbO7.png)​
